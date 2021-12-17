@@ -1,0 +1,13 @@
+main: at.ldnfuture.gamemodesystem.main.Main
+name: GamemodeSystem
+version: 1.0.0
+author: LDN_Future
+commands:
+  gmc:
+    description: Shortcut for /gamemode creative.
+  gms:
+    description: Shortcut for /gamemode survival.
+  gma:
+    description: Shortcut for /gamemode adventure.
+  gmsp:
+    description: Shortcut for /gamemode spectator.

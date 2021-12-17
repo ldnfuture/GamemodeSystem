@@ -1,0 +1,6 @@
+# Config for GamemodeSystem
+# Author: LDN_Future
+# Plugin Version: 1.0.0
+#
+# This toggles the message you receive when someone else updates your gamemode:
+targetSendMessage: true
